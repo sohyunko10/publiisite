@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sohyunko",
+    "description": "",
+    "home_page_url": "https://sohyunko10-github.io/publiisite",
+    "feed_url": "https://sohyunko10-github.io/publiisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sohyun Ko"
+    },
+    "items": [
+    ]
+}

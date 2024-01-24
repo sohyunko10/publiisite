@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sohyunko10-github.io/publiisite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sohyunko10-github.io/publiisite/</loc>
+</url>
+<url>
+<loc>https://sohyunko10-github.io/publiisite/meet-the-team.html</loc>
+<lastmod>2024-01-24T14:18:55-08:00</lastmod>
+<image:image>
+<image:loc>https://sohyunko10-github.io/publiisite/media/posts/2/Procession_of_Characters_from_Shakespeares_Plays_-_Google_Art_Project.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sohyunko10-github.io/publiisite/media/posts/2/Jane-Bruin-copy.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sohyunko10-github.io/publiisite/media/posts/2/Joe-Bruin-cropped-640x640.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sohyunko10-github.io/publiisite/welcome-to-digital-shakespear.html</loc>
+<lastmod>2024-01-24T14:02:34-08:00</lastmod>
+</url>
+</urlset>
